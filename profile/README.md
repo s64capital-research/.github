@@ -50,7 +50,7 @@ Salil heads the engineering and development team and is responsible for deliveri
 
 #### Pierre Moutounet-Cartan (Associate of the Royal College of Science)
 
-Pierre spearheads our data capabilities with the development of our comprehensive data repository and analytics platform. Previously, Pierre structured over $4bn worth of equity derivatives products at Credit Suisse globally, and automated the lifecycle of those products generating over $40m of high-touch revenue in the span of 3 years. Pierre holds a Bachelor of Science in Mathematics from Imperial College London, where he specialized in biomathematics, statistical modeling, and machine learning/AI.
+Pierre spearheads our data capabilities with the development of our comprehensive data repository and analytics platform. Previously, Pierre structured over $4bn worth of equity derivatives products at Credit Suisse globally, and automated the lifecycle of those products generating over $40m of low-touch revenue in the span of 3 years. Pierre holds a Bachelor of Science in Mathematics from Imperial College London, where he specialized in biomathematics, statistical modeling, and machine learning/AI.
 
 [LinkedIn](https://www.linkedin.com/in/yopierre/?locale=en_US) | [Work Email](mailto:pierre.moutounet-cartan@s64capital.com)
 
